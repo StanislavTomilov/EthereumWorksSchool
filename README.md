@@ -1,4 +1,4 @@
-#EthereumWorksSchool
+# EthereumWorksSchool
 
 Здесь лежат решённые, в процессе обучения на EthereumWorks, задачи
 
@@ -6,6 +6,10 @@
 
 [Advanced](https://github.com/StanislavTomilov/EthereumWorksSchool/tree/master/Advanced) - более сложные версии смарт-контрактов
 
-[DApp Example](https://github.com/StanislavTomilov/EthereumWorksSchool/tree/master/DAppExample) - самый простой пример реализации DApp
-
 [ICO Contracts](https://github.com/StanislavTomilov/EthereumWorksSchool/tree/master/ICO%20contracts) - примеры реализации контрактов ICO
+
+[Tokens](https://github.com/StanislavTomilov/EthereumWorksSchool/tree/master/Tokens) - примеры реализации токенов
+
+[DAO](https://github.com/StanislavTomilov/EthereumWorksSchool/tree/master/DAO) - примеры реализации DAO
+
+[DApp Example](https://github.com/StanislavTomilov/EthereumWorksSchool/tree/master/DAppExample) - самый простой пример реализации DApp
